@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p2/692416-quadrado-em-branco-branco-e-cinza-em-tons-sobreposicao-de-fundo-de-papel-gr%C3%A1tis-vetor.jpg");
+    background-size: cover;
+    color: #333;
+    margin: 10;
+    padding: 10;
+  }
+  
+  header,
+  section {
+    margin: 50px auto;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1,
+  h2 {
+    color: #0056b3;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  main ul li {
+    background: #f2f2f2;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  footer {
+    margin: 20px 20%;
+    color: rgb(255, 255, 255);
+    background: #0056b3;
+  }
+  footer > ul > li {
+  }
+  a {
+    color: rgb(250, 214, 11);
+  }
+  
